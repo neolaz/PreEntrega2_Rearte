@@ -4,7 +4,7 @@ import FacebookLogo from "../../img/facebookLogo.svg";
 
 const Footer = () => {
     return (
-        <footer className="bgHeaderFooter containerCustom containerFooter">
+        <footer className="bgHeaderFooter containerFooter">
             <a href="https://instagram.com/" target="_blank">
                 <img className="imgSocialMedia" src={InstagramLogo} alt="Logo Instagram" />
             </a>
