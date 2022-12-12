@@ -17,7 +17,7 @@ body {
 .containerCustom {
   box-sizing: border-box;
   max-width: none;
-  padding: 30px 15px 10px 15px;
+  padding: 30px 15px 70px 15px;
 }
 
 .containerHeader {
@@ -427,5 +427,7 @@ footer img:hover {
 }
 
 .containerFooter{
-  padding-top: 10px;
+  box-sizing: border-box;
+  max-width: none;
+  padding: 10px 15px 10px 15px;
 }
